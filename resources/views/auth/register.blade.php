@@ -11,6 +11,10 @@
             <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
         </div>
         <div class="form-floating mb-3">
+            <input type="text" placeholder="name@example.com" name="name" class="form-control" id="exampleInputPassword1">
+            <label for="exampleInputPassword1" class="form-label">Full name</label>
+        </div>
+        <div class="form-floating mb-3">
             <input type="text" placeholder="name@example.com" name="username" class="form-control" id="exampleInputPassword1">
             <label for="exampleInputPassword1" class="form-label">Username</label>
         </div>
